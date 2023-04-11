@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: Meet me out of earth
 - 😄 Pronouns: ...
-- ⚡ Fun fact: **There no fun fact at the time**
+- ⚡ Fun fact: **There is no fun fact at the time**
 
 
 ![alt text](https://user-images.githubusercontent.com/71552351/211203881-a569d0b8-3ddf-4398-93c0-394ff7c624ec.png)
