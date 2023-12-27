@@ -1,7 +1,7 @@
 ### Hi there 👋
 
  
-**Aminul0x01/Aminul0x01** is a ✨ _special_ ✨ repository because its `README.md` appears on my GitHub profile.
+**aminulsec/aminulsec** is a ✨ _special_ ✨ repository because its `README.md` appears on my GitHub profile.
 
 Here are some ideas to get you started:
 
