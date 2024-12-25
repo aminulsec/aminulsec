@@ -4,6 +4,12 @@ Welcome to my GitHub profile! I’m a **Cybersecurity Expert** and **Programmer*
 
 ---
 
+## GitHub Stats  
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=aminulsec&theme=highcontrast&hide_border=true)](https://git.io/streak-stats)  
+
+---
+
 ## About Me  
 
 - 🔒 **Cybersecurity Focus**: Specializing in penetration testing, secure coding, and vulnerability assessments.  
@@ -11,11 +17,6 @@ Welcome to my GitHub profile! I’m a **Cybersecurity Expert** and **Programmer*
 - 💻 **Java Developer**: Skilled in building high-performance applications using Java.  
 - 🌱 **Currently Learning**: Advanced cryptography, blockchain, and AI in cybersecurity.  
 
----
-
-## GitHub Stats  
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=aminulsec&theme=highcontrast&hide_border=true)](https://git.io/streak-stats)  
 
 ---
 
