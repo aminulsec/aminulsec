@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I’m a **Cybersecurity Expert** and **Programmer*
 
 - 🔒 **Cybersecurity Focus**: Specializing in penetration testing, secure coding, and vulnerability assessments.  
 - 💻 **Tech Enthusiast**: Continuously learning and exploring new technologies.  
-- 🐍 **Python Developer**: Leveraging Python for security tools and automation.  
+- 💻 **Java Developer**: Skilled in building high-performance applications using Java.  
 - 🌱 **Currently Learning**: Advanced cryptography, blockchain, and AI in cybersecurity.  
 
 ---
