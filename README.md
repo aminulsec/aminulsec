@@ -19,14 +19,6 @@ Welcome to my GitHub profile! I’m a **Cybersecurity Expert** and **Programmer*
 
 ---
 
-## Featured Images  
-
-![Cybersecurity Graphic](https://user-images.githubusercontent.com/71552351/211203881-a569d0b8-3ddf-4398-93c0-394ff7c624ec.png)  
-
-![Screenshot from 2023-01-08 20-21-57](https://user-images.githubusercontent.com/71552351/211203722-a5c77c12-668e-4e89-98bc-cfdd8a02b23d.png)  
-
----
-
 ## Skills  
 
 - Cybersecurity Analysis & Testing  
