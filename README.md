@@ -33,7 +33,7 @@ Welcome to my GitHub profile! I’m a **Cybersecurity Expert** and **Programmer*
 
 ## Get in Touch  
 
-- 💬 **Ask Me About**: Cybersecurity, Python, and secure coding practices.  
+- 💬 **Ask Me About**: Cybersecurity, Java, and secure coding practices.  
 - 📫 **Contact**: Let’s connect—I'm always open to collaboration!  
 
 ---
