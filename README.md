@@ -1,24 +1,54 @@
-### Hi there 👋
+# Hi, I’m Aminul 👋  
 
- 
-**aminulsec/aminulsec** is a ✨ _special_ ✨ repository because its `README.md` appears on my GitHub profile.
-[![GitHub Streak](https://streak-stats.demolab.com?user=aminulsec&theme=highcontrast&hide_border=true)](https://git.io/streak-stats)
+Welcome to my GitHub profile! I’m a **Cybersecurity Expert** and **Programmer** passionate about securing systems and building efficient, innovative solutions.  
 
+---
 
-Here are some ideas to get you started:
+## About Me  
 
-- 🔭 I’m currently working on Computer Science & Technology
-- 🌱 I’m currently learning Python
-- 👯 I’m looking to collaborate on my own world
-- 🤔 I’m looking for help with N/A
-- 💬 Ask me about ...
-- 📫 How to reach me: Meet me out of earth
-- 😄 Pronouns: ...
-- ⚡ Fun fact: **There is no fun fact at the time**
+- 🔒 **Cybersecurity Focus**: Specializing in penetration testing, secure coding, and vulnerability assessments.  
+- 💻 **Tech Enthusiast**: Continuously learning and exploring new technologies.  
+- 🐍 **Python Developer**: Leveraging Python for security tools and automation.  
+- 🌱 **Currently Learning**: Advanced cryptography, blockchain, and AI in cybersecurity.  
 
+---
 
-![alt text](https://user-images.githubusercontent.com/71552351/211203881-a569d0b8-3ddf-4398-93c0-394ff7c624ec.png)
+## GitHub Stats  
 
-![Screenshot from 2023-01-08 20-21-57](https://user-images.githubusercontent.com/71552351/211203722-a5c77c12-668e-4e89-98bc-cfdd8a02b23d.png)
+[![GitHub Streak](https://streak-stats.demolab.com?user=aminulsec&theme=highcontrast&hide_border=true)](https://git.io/streak-stats)  
 
-bitcoin:bc1qn7epha33njgs84luys25jjlyz5rp9rc859hrhv
+---
+
+## Featured Images  
+
+![Cybersecurity Graphic](https://user-images.githubusercontent.com/71552351/211203881-a569d0b8-3ddf-4398-93c0-394ff7c624ec.png)  
+
+![Screenshot from 2023-01-08 20-21-57](https://user-images.githubusercontent.com/71552351/211203722-a5c77c12-668e-4e89-98bc-cfdd8a02b23d.png)  
+
+---
+
+## Skills  
+
+- Cybersecurity Analysis & Testing  
+- Secure Code Development  
+- Malware Analysis  
+- Blockchain Technology  
+- Python Programming  
+
+---
+
+## Get in Touch  
+
+- 💬 **Ask Me About**: Cybersecurity, Python, and secure coding practices.  
+- 📫 **Contact**: Let’s connect—I'm always open to collaboration!  
+
+---
+
+## Support My Work  
+
+If you’d like to support my work, you can contribute via Bitcoin:  
+**`bc1qn7epha33njgs84luys25jjlyz5rp9rc859hrhv`**
+
+---
+
+**Let’s build a safer digital world together!**
