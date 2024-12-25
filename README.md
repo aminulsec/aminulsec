@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I’m a **Cybersecurity Expert** and **Programmer*
 
 ## GitHub Stats  
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=aminulsec&theme=radical)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=aminulsec&theme=default)](https://git.io/streak-stats)
   
 
 ---
