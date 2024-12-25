@@ -2,6 +2,8 @@
 
  
 **aminulsec/aminulsec** is a ✨ _special_ ✨ repository because its `README.md` appears on my GitHub profile.
+[![GitHub Streak](https://streak-stats.demolab.com?user=aminulsec&theme=highcontrast&hide_border=true)](https://git.io/streak-stats)
+
 
 Here are some ideas to get you started:
 
